@@ -15,14 +15,12 @@ I believe this is an issue because communication is not just about sharing infor
 There are several issues with current chatbots:
 
 - Chatbots do not understand user emotions  
-- Their replies feel robotic and lack empathy  
 - They give the same type of response regardless of user mood  
 
 ### Why this problem exists:
 
 - Emotions are complex and hard to detect from text  
 - Most systems focus on accuracy rather than user experience  
-- Emotion detection and response generation are often treated separately  
 
 ### My assumptions:
 
@@ -70,22 +68,18 @@ My idea is to build an AI system that understands the user's emotional state and
 
 - Analyze the user's message to understand their emotion  
 - Combine that emotion with the conversation context  
-- Generate a response that matches both meaning and emotion  
 
 ### Possible features:
 
 - Chatbot that responds differently based on user mood  
 - Tracks emotional changes during a conversation  
-- Dashboard to visualize emotions  
-- Provides supportive and context-aware replies  
 
 ---
 
 ## Challenges and Open Questions
 
 - Can emotions be detected accurately from text?  
-- How can we ensure responses are helpful and appropriate?  
-- What happens if the system misunderstands the user's emotion?  
+- How can we ensure responses are helpful and appropriate?   
 
 ---
 
