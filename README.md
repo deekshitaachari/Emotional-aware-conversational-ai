@@ -133,5 +133,5 @@ This is the starting point of building a more human-like AI system. By combining
 
 ## References
 
-[Read PDF](./docs/Paper1.pdf)
-[Read PDF](./docs/Paper2.pdf)
+[Read PDF](./ieee/Paper1.pdf)
+[Read PDF](./ieee/Paper2.pdf)
