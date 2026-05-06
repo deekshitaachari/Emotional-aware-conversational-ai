@@ -131,4 +131,7 @@ I want to build a conversational AI system that can understand user emotions and
 
 This is the starting point of building a more human-like AI system. By combining emotion understanding with intelligent responses, this project aims to make conversations more meaningful, supportive, and natural.
 
-[Read pdf] (./ieee/paper1)
+## References
+
+[Read PDF](./docs/Paper1.pdf)
+[Read PDF](./docs/Paper2.pdf)
