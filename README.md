@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Project Logo" width="200"/>
+  <img src="images/Comedkares-Logo-EPS.png" alt="Project Logo" width="200"/>
 </p>
 
 # Emotion-Aware Conversational AI for Transgender Dysphoria Support
