@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" alt="Project Logo" width="200"/>
+</p>
+
 # Emotion-Aware Conversational AI for Transgender Dysphoria Support
 
 ## Overview
@@ -26,6 +30,36 @@ This project proposes an AI-based conversational system capable of understanding
 - Identify emotional distress related to gender dysphoria
 - Generate empathetic and supportive responses
 - Provide context-aware interaction
+
+---
+
+## Existing System
+
+Several existing systems and research studies have explored conversational AI, emotion recognition, and transgender-focused support systems.
+
+- Emotion recognition systems use Natural Language Processing (NLP) and Machine Learning techniques to identify emotional states from textual conversations.
+- Transgender-focused chatbot systems mainly provide healthcare information, awareness support, and basic conversational interaction.
+- Conversational AI systems designed for LGBTQ users focus on accessibility, communication support, and information delivery.
+
+Although these systems provide useful functionality, most existing solutions lack:
+- Deep emotional understanding
+- Dysphoria-sensitive interaction
+- Context-aware empathetic responses
+- Personalized emotional support
+- Long-term conversational memory
+- Crisis-sensitive emotional assistance
+
+Most current systems focus mainly on emotion detection or healthcare assistance and fail to provide emotionally supportive and empathetic conversational interaction for individuals experiencing gender dysphoria.
+
+---
+
+## Research Paper Analysis
+
+| Research Paper | Focus Area | Technologies Used | Limitations |
+|---|---|---|---|
+| Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions | Detecting gender dysphoria using social media text | NLP, Machine Learning, XGBoost, LIWC, Sentiment Analysis | Focuses only on detection and classification, lacks empathetic conversation |
+| Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil | Healthcare-focused transgender chatbot | Conversational chatbot system | Limited emotion detection and emotional understanding |
+| The Impact of Generative Conversational AI on the LGBTQ Community | Conversational AI support for LGBTQ users | Generative AI systems | Generic responses, bias, and limited personalization |
 
 ---
 
@@ -92,6 +126,9 @@ By integrating emotion detection, sentiment analysis, contextual understanding, 
 ---
 
 ## References
-1. Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions  
-2. Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil  
-3. The Impact of Generative Conversational AI on the LGBTQ Community
+
+1. [Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions]([https://formative.jmir.org/2023/1/e47256])
+
+2. [Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil](https://www.jmir.org/2023/1/e41881)
+
+3. [The Impact of Generative Conversational AI on the LGBTQ Community](https://www.jmir.org/2023/1/e52091)
