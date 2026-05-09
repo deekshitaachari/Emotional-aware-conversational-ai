@@ -127,7 +127,7 @@ By integrating emotion detection, sentiment analysis, contextual understanding, 
 
 ## References
 
-1. [Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions]([https://formative.jmir.org/2023/1/e47256])
+1. [Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions](https://formative.jmir.org/2023/1/e47256)
 
 2. [Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil](https://www.jmir.org/2023/1/e41881)
 
