@@ -451,14 +451,14 @@ The system can contribute significantly to mental health support and emotional w
 
 ## References
 
-1. Self, A., et al. *Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions*  
-   🔗https://formative.jmir.org/2023/1/e47256
+[Self, A., et al. *Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions*]
+   (https://formative.jmir.org/2023/1/e47256)
 
-2. Batista, A., et al. *Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil*  
-   🔗 https://www.jmir.org/2023/1/e41881
+[Batista, A., et al. *Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil*]  
+   (https://www.jmir.org/2023/1/e41881)
 
-3. Alhassan, A. A., et al. *The Impact of Generative Conversational Artificial Intelligence on the LGBTQ Community: Scoping Review*  
-   🔗 https://www.jmir.org/2023/1/e52091
+[Alhassan, A. A., et al. *The Impact of Generative Conversational Artificial Intelligence on the LGBTQ Community: Scoping Review*  ]
+   (https://www.jmir.org/2023/1/e52091)
 
 ---
 
