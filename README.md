@@ -313,53 +313,42 @@ Emotionally Adaptive Response
 
 ## 7.2 System Architecture
 
-            +------------------+
-            |      User        |
-            |     (Text)       |
-            +--------+---------+
-                     |
-                     v
-          +--------------------+
-          |   User Interface   |
-          |         Web        |
-          +---------+----------+
-                    |
-                    v
-          +--------------------+
-          | Input Processing   |
-          | Text Cleaning      |
-          | Tokenization       |
-          +---------+----------+
-                    |
-                    v
-          +--------------------+
-          | Emotion Detection  |
-          | BERT / RoBERTa     |
-          +---------+----------+
-                    |
-                    v
-          +--------------------+
-          | Conversational AI  |
-          | GPT Response Model |
-          +---------+----------+
-                    |
-                    v
-          +--------------------+
-          | Mental Health      |
-          | Support Module     |
-          +---------+----------+
-                    |
-                    v
-          +--------------------+
-          | Response to User   |
-          +--------------------+
+```mermaid
+flowchart TD
 
-                 |
-                 v
-          +--------------------+
-          |     Database       |
-          | Chats & Emotions   |
-          +--------------------+
+A[User]
+--> B[User Interface]
+
+B --> C[Text Input Module]
+
+C --> D[Text Preprocessing]
+
+D --> E[Tokenization]
+D --> F[Stop Word Removal]
+D --> G[Text Normalization]
+
+E --> H[Emotion Detection Model]
+F --> H
+G --> H
+
+H --> I[BERT / RoBERTa Emotion Classifier]
+
+I --> J[Emotion Recognition]
+
+J --> K[Context Analysis Module]
+
+K --> L[Conversational AI Engine]
+
+L --> M[Response Generation Module]
+
+M --> N[Emotionally Adaptive Response]
+
+N --> O[Mental Health Support System]
+
+O --> P[Conversation History Database]
+
+P --> K
+```
 
 ---
 
@@ -461,7 +450,11 @@ The processed text is analyzed by emotion classification models, and the respons
 
 # 12. Limitations
 
-
+- Emotion detection may fail for sarcasm
+- Limited contextual memory
+- Dataset dependency
+- Ethical and privacy concerns
+- 
 ---
 
 # 13. Future Scope
@@ -496,17 +489,6 @@ The system can contribute significantly to mental health support and emotional w
 
 3. Alhassan, A. A., et al. *The Impact of Generative Conversational Artificial Intelligence on the LGBTQ Community: Scoping Review*  
    🔗 https://www.jmir.org/2023/1/e52091
-
----
-
-# Appendix (Optional)
-
-Include:
-- Screenshots
-- Training graphs
-- Sample outputs
-- Confusion matrix
-- Chatbot conversation examples
 
 ---
 
