@@ -315,39 +315,37 @@ Emotionally Adaptive Response
 
 ```mermaid
 flowchart TD
+    A[User] --> B[User Interface]
 
-A[User]
---> B[User Interface]
+    B --> C[Text Input Module]
 
-B --> C[Text Input Module]
+    C --> D[Text Preprocessing]
 
-C --> D[Text Preprocessing]
+    D --> E[Tokenization]
+    D --> F[Stop Word Removal]
+    D --> G[Text Normalization]
 
-D --> E[Tokenization]
-D --> F[Stop Word Removal]
-D --> G[Text Normalization]
+    E --> H[Emotion Detection Model]
+    F --> H
+    G --> H
 
-E --> H[Emotion Detection Model]
-F --> H
-G --> H
+    H --> I[BERT / RoBERTa Emotion Classifier]
 
-H --> I[BERT / RoBERTa Emotion Classifier]
+    I --> J[Emotion Recognition]
 
-I --> J[Emotion Recognition]
+    J --> K[Context Analysis Module]
 
-J --> K[Context Analysis Module]
+    K --> L[Conversational AI Engine]
 
-K --> L[Conversational AI Engine]
+    L --> M[Response Generation Module]
 
-L --> M[Response Generation Module]
+    M --> N[Emotionally Adaptive Response]
 
-M --> N[Emotionally Adaptive Response]
+    N --> O[Mental Health Support System]
 
-N --> O[Mental Health Support System]
+    O --> P[Conversation History Database]
 
-O --> P[Conversation History Database]
-
-P --> K
+    P --> K
 ```
 
 ---
@@ -429,7 +427,10 @@ The processed text is analyzed by emotion classification models, and the respons
 
 | Metric | Existing System | Proposed System |
 |---|---|---|
-
+| Accuracy | 72% |     |
+| Precision | 70% |     |
+| Recall | 68% |     |
+| F1-Score | 69% |     |
 
 ---
 
