@@ -313,9 +313,53 @@ Emotionally Adaptive Response
 
 ## 7.2 System Architecture
 
-```md
-![System Architecture](images/architecture.png)
-```
+            +------------------+
+            |      User        |
+            |     (Text)       |
+            +--------+---------+
+                     |
+                     v
+          +--------------------+
+          |   User Interface   |
+          |         Web        |
+          +---------+----------+
+                    |
+                    v
+          +--------------------+
+          | Input Processing   |
+          | Text Cleaning      |
+          | Tokenization       |
+          +---------+----------+
+                    |
+                    v
+          +--------------------+
+          | Emotion Detection  |
+          | BERT / RoBERTa     |
+          +---------+----------+
+                    |
+                    v
+          +--------------------+
+          | Conversational AI  |
+          | GPT Response Model |
+          +---------+----------+
+                    |
+                    v
+          +--------------------+
+          | Mental Health      |
+          | Support Module     |
+          +---------+----------+
+                    |
+                    v
+          +--------------------+
+          | Response to User   |
+          +--------------------+
+
+                 |
+                 v
+          +--------------------+
+          |     Database       |
+          | Chats & Emotions   |
+          +--------------------+
 
 ---
 
@@ -377,23 +421,6 @@ The processed text is analyzed by emotion classification models, and the respons
 
 - GoEmotions Dataset
 - EmpatheticDialogues Dataset
-
----
-
-## Training Process
-
-- Data preprocessing
-- Tokenization
-- Model training
-- Hyperparameter tuning
-
----
-
-## Testing Process
-
-- Emotion classification testing
-- Conversational response evaluation
-- User interaction analysis
 
 ---
 
