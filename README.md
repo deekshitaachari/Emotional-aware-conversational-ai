@@ -313,41 +313,9 @@ Emotionally Adaptive Response
 
 ## 7.2 System Architecture
 
-```mermaid
-flowchart TD
-    A[User] --> B[User Interface]
-
-    B --> C[Text Input Module]
-
-    C --> D[Text Preprocessing]
-
-    D --> E[Tokenization]
-    D --> F[Stop Word Removal]
-    D --> G[Text Normalization]
-
-    E --> H[Emotion Detection Model]
-    F --> H
-    G --> H
-
-    H --> I[BERT / RoBERTa Emotion Classifier]
-
-    I --> J[Emotion Recognition]
-
-    J --> K[Context Analysis Module]
-
-    K --> L[Conversational AI Engine]
-
-    L --> M[Response Generation Module]
-
-    M --> N[Emotionally Adaptive Response]
-
-    N --> O[Mental Health Support System]
-
-    O --> P[Conversation History Database]
-
-    P --> K
+```text
+User → UI → Preprocessing → Emotion Detection → AI Engine → Response → Database
 ```
-
 ---
 
 ## 7.3 Data Flow
