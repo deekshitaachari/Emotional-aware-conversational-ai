@@ -424,7 +424,7 @@ The processed text is analyzed by emotion classification models, and the respons
 - Limited contextual memory
 - Dataset dependency
 - Ethical and privacy concerns
-- 
+  
 ---
 
 # 13. Future Scope
