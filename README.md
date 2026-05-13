@@ -8,8 +8,6 @@
 
 # Emotion-Aware Conversational AI for Mental Health Support
 
-## IEEE Style Research Paper
-
 ### Submitted by
 
 **Deekshita Achari**  
