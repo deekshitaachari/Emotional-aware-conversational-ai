@@ -318,18 +318,41 @@ Emotionally Adaptive Response
 ## 7.2 System Architecture
 
 ```text
-User → UI → Preprocessing → Emotion Detection → AI Engine → Response → Database
+User
+  ↓
+ UI
+  ↓
+Preprocessing
+  ↓
+Emotion Detection
+  ↓
+AI Engine
+  ↓
+Response
+  ↓
+Database
 ```
 ---
 
-## 7.3 Data Flow
+## 7.3 Context Flow
 
-The user input is collected through the interface and passed to preprocessing modules such as:
-- Tokenization
-- Stop-word removal
-- Text normalization
-
-The processed text is analyzed by emotion classification models, and the response generation module produces emotionally suitable replies.
+```text
+User Message
+   ↓
+Input Collection
+   ↓
+Text Cleaning & Processing
+   ↓
+Emotion Analysis
+   ↓
+Emotion Classification
+   ↓
+Response Generation
+   ↓
+Emotion-Aware Reply
+   ↓
+Conversation Storage
+```
 
 ---
 
