@@ -18,8 +18,8 @@ Department of MCA
 Dr. Ambedkar Institute of Technology  
 
 **Guide / Mentor:**  
-**Mentor:** Harsha T R  
-**Guide:** Dharmika, Somashekar
+**Guide:** Harsha T R  
+**Mentor:** Dharmika, Somashekar
 
 ---
 
