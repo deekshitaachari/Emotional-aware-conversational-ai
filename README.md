@@ -12,14 +12,14 @@
 
 ### Submitted by
 
-**Deekshita Achari**
-USN **1DA24MC015** 
-Department of MCA 
-Dr. Ambedkar Institute of Technology
+**Deekshita Achari**  
+USN: **1DA24MC015**  
+Department of MCA  
+Dr. Ambedkar Institute of Technology  
 
 **Guide / Mentor:**  
-**Mentor** : Harsha T R
-**Guide**  :Dharmika, Somashekar
+**Mentor:** Harsha T R  
+**Guide:** Dharmika, Somashekar
 
 ---
 
