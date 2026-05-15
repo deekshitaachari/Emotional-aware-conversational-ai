@@ -28,11 +28,11 @@ Dr. Ambedkar Institute of Technology
 
 # Abstract
 
-Emotion-Aware Conversational AI systems are becoming increasingly important in the field of mental health support because traditional chatbots mainly focus on generating contextually correct responses while ignoring the emotional state of the user. This limitation reduces the effectiveness of conversational systems in sensitive domains such as stress management, anxiety support, and gender dysphoria counseling.
+Emotion-Aware Conversational AI systems are becoming increasingly important in the field of mental health support for gender dysphoria because traditional chatbots mainly focus on generating contextually correct responses while ignoring the emotional state of the user. This limitation reduces the effectiveness of conversational systems in sensitive domains such as stress management, anxiety support, and gender dysphoria counseling.[3]
 
 This research proposes an Emotion-Aware Conversational AI system capable of detecting emotions from textual conversations and generating emotionally supportive responses. The proposed system integrates Natural Language Processing (NLP), emotion classification models, and conversational AI techniques to improve empathy and user engagement.
 
-Machine Learning and Deep Learning models such as BERT, RoBERTa, and transformer-based dialogue systems are used for emotion recognition and response generation. The system is designed to provide emotionally adaptive conversations for users seeking mental health assistance, especially individuals facing emotional stress or gender dysphoria.
+Machine Learning and Deep Learning models such as BERT, RoBERTa, and transformer-based dialogue systems are used for emotion recognition and response generation. The system is designed to provide emotionally adaptive conversations for users seeking mental health assistance, especially individuals facing emotional stress or gender dysphoria.[1][3]
 
 ---
 
@@ -48,7 +48,7 @@ Artificial Intelligence, Machine Learning, Natural Language Processing, Emotion 
 
 Artificial Intelligence has significantly transformed human-computer interaction through intelligent conversational systems known as chatbots or dialogue systems. Most existing conversational agents focus primarily on generating grammatically correct and contextually relevant responses. However, emotional understanding is an essential component of human communication.
 
-Emotion-Aware Conversational AI aims to bridge this gap by enabling systems to recognize and respond to human emotions effectively.
+Emotion-Aware Conversational AI aims to bridge this gap by enabling systems to recognize and respond to human emotions effectively.[2][3]
 
 ---
 
@@ -57,16 +57,16 @@ Emotion-Aware Conversational AI aims to bridge this gap by enabling systems to r
 Traditional conversational AI systems fail to understand emotional context properly. They often generate emotionally inappropriate responses because they rely heavily on semantic understanding rather than emotional intelligence.
 
 Challenges include:
-- Sarcasm detection
-- Ambiguous emotional expressions
-- Long-term emotional memory
-- Emotionally insensitive responses
+- Sarcasm detection[1]
+- Ambiguous emotional expressions[1]
+- Long-term emotional memory[2]
+- Emotionally insensitive responses[3]
 
 ---
 
 ## 1.3 Need for the Study
 
-Mental health issues, stress, anxiety, and gender dysphoria are increasing globally. Many individuals hesitate to seek direct counseling due to fear, stigma, or lack of accessibility.
+Mental health issues, stress, anxiety, and gender dysphoria are increasing globally. Many individuals hesitate to seek direct counseling due to fear, stigma, or lack of accessibility.[1][3]
 
 Emotion-aware AI systems can provide:
 - Immediate emotional support
@@ -81,7 +81,6 @@ Emotion-aware AI systems can provide:
 - Develop an AI system capable of detecting emotions from user text.
 - Generate emotionally supportive responses.
 - Improve user engagement using emotion-aware dialogue generation.
-- Study conversational AI applications in mental health support.
 
 ---
 
@@ -90,7 +89,7 @@ Emotion-aware AI systems can provide:
 The project focuses on:
 - Text-based emotion recognition
 - Emotion-aware response generation
-- Mental health support chatbot systems
+- Mental health support chatbot system for gender dysphoria[2][3]
 
 The project does not include:
 - Voice-based emotion recognition
@@ -236,27 +235,27 @@ The paper also highlights risks such as bias, misinformation, and ethical challe
 
 ## Gap 1
 
-Existing systems struggle to detect sarcasm and implicit emotional expressions.
+Existing systems struggle to detect sarcasm and implicit emotional expressions.[1]
 
 ---
 
 ## Gap 2
 
-Most systems cannot maintain long-term emotional memory during conversations.
+Most systems cannot maintain long-term emotional memory during conversations.[2][3]
 
 ---
 
 ## Gap 3
 
-Very few conversational AI systems specifically support gender dysphoria and LGBTQ mental health.
+Very few conversational AI systems specifically support gender dysphoria and LGBTQ mental health.[1][2][3]
 
 ---
 
 # 5. Problem Statement
 
-Existing conversational AI systems focus mainly on contextual response generation and fail to understand the emotional state of users effectively. This reduces the quality of emotional support during sensitive conversations related to mental health and gender dysphoria.
+Existing conversational AI systems focus mainly on contextual response generation and fail to understand the emotional state of users effectively. This reduces the quality of emotional support during sensitive conversations related to gender dysphoria.
 
-Therefore, there is a need for an Emotion-Aware Conversational AI system capable of recognizing emotions and generating empathetic responses.
+Therefore, there is a need for an Emotion-Aware Conversational AI system capable of recognizing emotions and generating empathetic responses.[3]
 
 ---
 
@@ -467,9 +466,9 @@ Conversation Storage
 
 This research presents an Emotion-Aware Conversational AI system designed to recognize emotions and generate emotionally adaptive responses.
 
-Unlike traditional chatbots, the proposed system integrates emotional intelligence into conversations, making interactions more empathetic and supportive.
+Unlike traditional chatbots, the proposed system integrates emotional intelligence into conversations, making interactions more empathetic and supportive.[3]
 
-The system can contribute significantly to mental health support and emotional wellness applications.
+The system can contribute significantly to mental health support and emotional wellness applications.[1][3]
 
 ---
 
@@ -477,13 +476,13 @@ The system can contribute significantly to mental health support and emotional w
 
 ## References
 
-[Self, A., et al. *Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions*]
+1. [Self, A., et al. *Models of Gender Dysphoria Using Social Media Data for Use in Technology-Delivered Interventions*]
    (https://formative.jmir.org/2023/1/e47256)
 
-[Batista, A., et al. *Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil*]  
+2. [Batista, A., et al. *Amanda Selfie: A Transgender Chatbot for Adolescents in Brazil*]  
    (https://www.jmir.org/2023/1/e41881)
 
-[Alhassan, A. A., et al. *The Impact of Generative Conversational Artificial Intelligence on the LGBTQ Community: Scoping Review*  ]
+3. [Alhassan, A. A., et al. *The Impact of Generative Conversational Artificial Intelligence on the LGBTQ Community: Scoping Review*  ]
    (https://www.jmir.org/2023/1/e52091)
 
 ---
