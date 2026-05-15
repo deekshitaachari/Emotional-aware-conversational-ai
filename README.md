@@ -255,7 +255,7 @@ Very few conversational AI systems specifically support gender dysphoria and LGB
 
 Existing conversational AI systems focus mainly on contextual response generation and fail to understand the emotional state of users effectively. This reduces the quality of emotional support during sensitive conversations related to gender dysphoria.
 
-Therefore, there is a need for an Emotion-Aware Conversational AI system capable of recognizing emotions and generating empathetic responses.[3]
+Therefore, there is a need for an Emotion-Aware Conversational AI system capable of recognizing emotions and generating empathetic responses.[3][2][1]
 
 ---
 
