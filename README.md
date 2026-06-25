@@ -4,7 +4,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://comedkares.org/wp-content/uploads/2023/04/Comedkares-Logo-EPS.png" width="220"/>
 
-# Emotion-Aware Conversational AI for Mental Health Support
+# Emotion-Aware Conversational AI for Gender Dysphoria
 
 **Deekshita Achari**  
 **MCA**
