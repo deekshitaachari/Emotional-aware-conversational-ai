@@ -17,7 +17,7 @@
 
 ### Abstract
 
-Emotion-Aware Conversational AI is an intelligent chatbot that detects users' emotions from text using Natural Language Processing (NLP) and machine learning techniques. Based on the detected emotion, the system provides personalized responses and recommends wellness activities such as relaxation exercises, motivational content, and interactive games. The application aims to support emotional well-being by creating engaging and empathetic conversations. It combines emotion recognition, conversational AI, and wellness recommendations to deliver a user-centered mental wellness experience.
+Emotion-Aware Conversational AI is an intelligent chatbot that detects users' emotions from text and responds accordingly. Based on the detected emotion, the system provides personalized responses and recommends wellness activities such as relaxation exercises, motivational content, and interactive games. The application aims to support emotional well-being by creating engaging and empathetic conversations. It combines emotion recognition, conversational AI, and wellness recommendations to deliver a user-centered mental wellness experience.
 
 ---
 
