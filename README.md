@@ -68,9 +68,9 @@ The emergence of generative conversational AI has further enhanced the capabilit
 
 Most existing chatbots are designed to answer questions and provide information but cannot recognize the emotional state of users. As a result, they often generate generic responses that may not be appropriate for users experiencing stress, sadness, anxiety, or other emotions.
 
-2. Absence of Personalized User Interaction
+2. Limited Personalization and Context-Aware Communication
 
-Current conversational systems usually provide the same type of response to all users regardless of their feelings or emotional needs. This lack of personalization reduces user engagement and makes interactions less meaningful and supportive.
+Existing chatbot solutions generally follow a one-size-fits-all approach, offering similar responses to users regardless of their emotional condition, preferences, or interaction history. The absence of personalized and context-aware communication reduces user engagement, trust, and the effectiveness of human-computer interaction, particularly in applications related to emotional support and well-being.
 
 3. Need for an Intelligent and Empathetic Conversational System
 
@@ -95,10 +95,6 @@ Suggest appropriate wellness activities such as relaxation exercises, motivation
 4. To Enhance User Engagement
 
 Create an interactive conversational environment that encourages users to communicate openly and actively participate in recommended activities for emotional well-being.
-
-# 6. Proposed Solution
-
-The proposed system is an Emotion-Aware Conversational AI platform that detects user emotions from text and generates emotionally adaptive responses.
 
 ---
 
