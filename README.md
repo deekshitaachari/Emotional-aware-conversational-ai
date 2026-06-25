@@ -147,24 +147,6 @@ A cloud database (Supabase/PostgreSQL) was integrated to store user conversation
 
 # 7. Analysis and Result
 
-7.1. Emotion Detection Results
-
-The developed Emotion-Aware Conversational AI system successfully identified user emotions from textual inputs. The emotion detection module was able to classify messages into categories such as joy, sadness, anger, fear, surprise, and neutral. The detected emotions were displayed in real time and used to personalize chatbot responses and wellness recommendations.
-
-7.2. Conversational Response Analysis
-
-The chatbot generated context-aware responses based on the user's emotional state. Unlike traditional chatbots that provide generic replies, the proposed system adapted its responses according to the detected emotion. This resulted in more engaging, empathetic, and meaningful conversations, improving the overall user experience.
-
-7.3. Wellness Recommendation Analysis
-
-The wellness recommendation module successfully suggested appropriate activities based on the identified emotions. Users experiencing negative emotions received recommendations such as relaxation exercises, mindfulness activities, motivational content, and calming music, while users with positive emotions received encouraging and engaging content. The recommendations helped enhance user interaction with the system.
-
-7.4. System Performance
-
-The integration between the frontend, backend, emotion detection module, and database functioned smoothly. The system processed user inputs efficiently and generated responses with minimal delay. Database operations such as storing conversations and retrieving wellness activities were performed successfully.
-
-7.5. Overall Analysis
-
 The results demonstrate that the proposed system effectively combines emotion detection, conversational AI, and wellness recommendations into a single platform. The emotion-aware responses improved the quality of interaction, while personalized wellness activities provided additional support for users' emotional well-being. The successful integration of all modules confirms the feasibility of using AI-driven conversational systems for emotional support and user engagement.
 
 # 8. Discussion
