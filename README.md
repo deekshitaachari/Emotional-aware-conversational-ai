@@ -143,10 +143,6 @@ A recommendation engine was implemented to suggest wellness activities such as m
 
 A cloud database (Supabase/PostgreSQL) was integrated to store user conversations, emotion analysis results, wellness activities, and other application data. This enables efficient data management and retrieval.
 
-6.7. System Testing and Deployment
-
-The integrated system was tested to ensure accurate emotion detection, smooth communication between modules, and proper functionality of wellness recommendations. The application was then deployed to provide a scalable and accessible platform for users.
-
 ---
 
 # 7. Analysis and Result
