@@ -5,25 +5,14 @@
   <img src="https://comedkares.org/wp-content/uploads/2023/04/Comedkares-Logo-EPS.png" width="220"/>
 </p>
 
----
 
 # Emotion-Aware Conversational AI for Mental Health Support
 
 ### Submitted by
 
 **Deekshita Achari**  
-
-USN: **1DA24MC015**  
-
-Department of MCA  
-
-Dr. Ambedkar Institute of Technology  
-
-**Guide / Mentor:**  
-
-**Guide:** Harsha T R  
-
-**Mentor:** Dharmika, Somashekar
+**MCA**
+**1DA24MC015**
 
 ---
 
